@@ -1,5 +1,5 @@
 # generateur-de-mot-de-passe-en-ligne-de-commande---python
-un générateur de mot de passe qui demande la longueur du mot de passe, l'inclusion ou non de Majucule, de minuscule, de chiffre et de symbole
+Ce projet est un générateur de mots de passe en ligne de commande, écrit en Python. **Il génère des mots de passe sécurisés en utilisant des caractères aléatoires pour renforcer la sécurité de vos comptes en ligne.**
 
 ## Utilité
 1- Générer des mots de passe robustes pour sécuriser vos comptes en ligne.
@@ -29,6 +29,16 @@ Le script vous demandera les informations suivantes :
 * **Inclure symboles ? (o/n, par défaut o) :** Répondez 'o' (oui) ou 'n' (non).
 
 Le mot de passe généré sera affiché dans la console.
+
+## Exemple
+1. un mot de passe de 16 caractères avec tous les types de caractères :
+![Mot de passe 16 carac](https://github.com/user-attachments/assets/dc43c6e9-03d6-473a-ab0b-e2dbf40c47d5)
+
+   
+2. un mot de passe de 8 caractères avec des lettres et des nombres :
+![Mot de passe 8 caract](https://github.com/user-attachments/assets/87af4e51-03d1-4cba-b46b-644ed4ba126c)
+
+
 
 ## Dépendances
 
