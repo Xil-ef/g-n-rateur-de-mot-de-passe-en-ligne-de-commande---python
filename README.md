@@ -9,7 +9,7 @@ un générateur de mot de passe qui demande la longueur du mot de passe, l'inclu
 ## Installation
 1. Assurez vous d'avoir installer python 3
 2. Clonez ce depot git ```bash
-    git clone [https://github.com/Xil-ef/generateur-de-mot-de-passe-en-ligne-de-commande.git](https://www.google.com/search?q=https://github.com/Xil-ef/generateur-de-mot-de-passe-en-ligne-de-commande.git)
+    git clone (https://github.com/Xil-ef/generateur-de-mot-de-passe-en-ligne-de-commande---python)
     ```
 3. Naviguez jusqu'au répertoire: ```bash
     cd generateur-de-mot-de-passe
